@@ -1,0 +1,3 @@
+/Users/nikiforovivan/CLionProjects/DOP/cmake-build-debug/CMakeFiles/DOP.dir
+/Users/nikiforovivan/CLionProjects/DOP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nikiforovivan/CLionProjects/DOP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
